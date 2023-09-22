@@ -1,0 +1,24 @@
+/* styles.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.divclass {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+        /* Remove the default list item markers */
+    list-style-position: inside;
+}
+
+/* Additional styles can be added here */
